@@ -1,0 +1,5 @@
+name = Panel Example
+description = Provides example of creating custom panels.
+core = 7.x
+package = 'examples'
+dependencies[] = ctools
